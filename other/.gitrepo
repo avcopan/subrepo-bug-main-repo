@@ -6,7 +6,7 @@
 [subrepo]
 	remote = git@github.com:avcopan/subrepo-bug-other-repo.git
 	branch = push-from-cluster
-	commit = 3af38d48c99f964165d7bce1dc193538ab4fcdab
-	parent = 577a442df59a56388504e7f595fe5ca796158a93
+	commit = c53af5d64d790260d1ba4f5fb8b38399d119e44c
+	parent = 1410d0e120d0f3acca6fb2b030052946f841277a
 	method = merge
 	cmdver = 0.4.9
